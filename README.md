@@ -1,4 +1,4 @@
-# SAP to Irail Integration Tool
+# SAP to GIS Web-app Integration Tool (Geo Processing Service)
 
 ## Introduction
 
