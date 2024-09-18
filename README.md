@@ -4,12 +4,10 @@
 </div>
 
 <section data-markdown>
-  <textarea data-template>
     <div class="flex-container">
       <div> SAP to GIS Web-app Integration Tool (Geo Processing Service) </div>
       <div><img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/esri-3.svg" alt="Placeholder Image" width="40" height="40"/></div>
     </div>
-  </textarea>
 </section>
 
 ## Introduction
