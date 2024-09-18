@@ -6,15 +6,7 @@
 </section>
 
 <section markdown="1" style="display: flex;">
-
-!!! Warning "Is your company, department or team..."
-    * Waiting for solutions ? 
-
-    SAP to GIS Web-app Integration Tool (Geo Processing Service)
-    
-!!! Tip "How to be more effective "
-    You could do this and that
-<img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/esri-3.svg" alt="Placeholder Image" width="40" height="40"/>
+    SAP to GIS Web-app Integration Tool (Geo Processing Service) <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/esri-3.svg" alt="Placeholder Image" width="40" height="40"/>
 </section>
 
 ## Introduction
