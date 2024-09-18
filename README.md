@@ -1,13 +1,9 @@
 <section data-markdown>
     <div class="flex-container">
       <div> SAP to GIS Web-app Integration Tool (Geo Processing Service) </div>
-      <div><img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/esri-3.svg" alt="Placeholder Image" width="40" height="40"/></div>
     </div>
 </section>
 
-<section markdown="1" style="display: flex;">
-    SAP to GIS Web-app Integration Tool (Geo Processing Service) <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/esri-3.svg" alt="Placeholder Image" width="40" height="40"/>
-</section>
 
 ## Introduction
 
