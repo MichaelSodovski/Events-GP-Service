@@ -5,10 +5,9 @@
 
 <section data-markdown>
   <textarea data-template>
-    # Testing
-    <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
-      <div> SAP to GIS Web-app Integration Tool (Geo Processing Service) </div> <!-- .element: style="margin: 10px; padding: 20px;"-->
-      <div><img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/esri-3.svg" alt="Placeholder Image" width="40" height="40"/></div> <!-- .element: style="margin: 10px; padding: 20px;"-->
+    <div class="flex-container">
+      <div> SAP to GIS Web-app Integration Tool (Geo Processing Service) </div>
+      <div><img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/esri-3.svg" alt="Placeholder Image" width="40" height="40"/></div>
     </div>
   </textarea>
 </section>
