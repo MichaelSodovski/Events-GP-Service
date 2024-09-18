@@ -1,7 +1,7 @@
 <p align="left">
-  <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/esri-3.svg" alt="HTML5" width="40" height="40"/>
   # SAP to GIS Web-app Integration Tool (Geo Processing Service) 
 </p>
+<img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/esri-3.svg" alt="HTML5" width="40" height="40"/>
 
 ## Introduction
 
