@@ -1,13 +1,20 @@
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; height: 100px;">
-   <a href="https://example.com" style="text-decoration: none;"> SAP to GIS Web-app Integration Tool (Geo Processing Service) </a>
-   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/esri-3.svg" alt="Placeholder Image" width="40" height="40"/>
-</div>
-
 <section data-markdown>
     <div class="flex-container">
       <div> SAP to GIS Web-app Integration Tool (Geo Processing Service) </div>
       <div><img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/esri-3.svg" alt="Placeholder Image" width="40" height="40"/></div>
     </div>
+</section>
+
+<section markdown="1" style="display: flex;">
+
+!!! Warning "Is your company, department or team..."
+    * Waiting for solutions ? 
+
+    SAP to GIS Web-app Integration Tool (Geo Processing Service)
+    
+!!! Tip "How to be more effective "
+    You could do this and that
+<img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/esri-3.svg" alt="Placeholder Image" width="40" height="40"/>
 </section>
 
 ## Introduction
