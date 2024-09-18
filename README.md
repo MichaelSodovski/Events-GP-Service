@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; height: 100px;">
+   <a href="https://example.com" style="text-decoration: none;"> SAP to GIS Web-app Integration Tool (Geo Processing Service) </a>
    <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/esri-3.svg" alt="Placeholder Image" width="40" height="40"/>
-   <p href="https://example.com" style="text-decoration: none;"> SAP to GIS Web-app Integration Tool (Geo Processing Service) </p>
 </div>
 
 ## Introduction
